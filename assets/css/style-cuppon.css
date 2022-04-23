@@ -1,0 +1,60 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+    
+.navbar{
+    background-color: #28a745;
+}
+
+nav .logo-white{
+    width: 150px;
+}
+
+.card-tittle{
+    color: #212529;
+    font-weight: 300;
+}
+
+.parrafo1{
+    color: #707070;
+}
+
+.texto1{
+    color: #707070;
+}
+
+.precio1{
+    color: #707070;
+    font-weight: 300;
+}
+
+.precio2{
+    color: #28a745;
+    font-weight: 500;
+}
+
+.formulario{
+    background-color: #28a745;
+    font-weight: 500;
+}
+
+.formulario .form-control{
+    color: #707070;
+    font-weight: 300;
+}
+
+.formulario .btn{
+    color: #212529;    
+}
+
+.colores{
+    color: white;
+}
+
+footer .logo-black{
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+    width: 120px;
+
+}
